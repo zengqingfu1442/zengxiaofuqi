@@ -1,1 +1,5 @@
 .idea
+*.py[cod]
+__pycache__/
+*.swp
+*.sqlite3
